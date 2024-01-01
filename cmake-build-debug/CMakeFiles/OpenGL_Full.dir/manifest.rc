@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/Rami/CLionProjects/OpenGL_Full/cmake-build-debug/CMakeFiles/OpenGL_Full.dir/embed.manifest"

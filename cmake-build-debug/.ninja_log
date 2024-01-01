@@ -1,0 +1,22 @@
+# ninja log v5
+62	807	7257500568973203	dependencies/GLFW/src/CMakeFiles/glfw.dir/win32_time.c.obj	ac14132c7fd09943
+2	858	7257865128465110	CMakeFiles/OpenGL_Full.dir/OpenGL_Full/main.cpp.obj	31c2c4fe1531c280
+2	1184	7257866950167931	build.ninja	26d29b51955b9387
+770	1289	7257500574153024	dependencies/GLFW/src/CMakeFiles/glfw.dir/win32_window.c.obj	683faa2336a29cb4
+762	1270	7257500573960376	dependencies/GLFW/src/CMakeFiles/glfw.dir/win32_thread.c.obj	7c2cfa1f91fde679
+54	769	7257500568729288	dependencies/GLFW/src/CMakeFiles/glfw.dir/vulkan.c.obj	156fb63259ea43fe
+39	808	7257500569063200	dependencies/GLFW/src/CMakeFiles/glfw.dir/window.c.obj	e271def01239cde1
+77	805	7257500568932383	dependencies/GLFW/src/CMakeFiles/glfw.dir/win32_monitor.c.obj	30458f41b92cc188
+47	760	7257500568779932	dependencies/GLFW/src/CMakeFiles/glfw.dir/win32_init.c.obj	15ec6dbe21eb35a2
+69	785	7257500568932383	dependencies/GLFW/src/CMakeFiles/glfw.dir/win32_joystick.c.obj	9ac8a7265c0a2a56
+19	804	7257500568952380	dependencies/GLFW/src/CMakeFiles/glfw.dir/monitor.c.obj	9993a3d5df6abeb
+25	795	7257500568901603	dependencies/GLFW/src/CMakeFiles/glfw.dir/input.c.obj	9f3cabdef331346
+11	810	7257500569145395	dependencies/GLFW/src/CMakeFiles/glfw.dir/context.c.obj	952f81d179791d3
+32	811	7257500569165395	dependencies/GLFW/src/CMakeFiles/glfw.dir/init.c.obj	5dac1d24f87378e5
+786	1274	7257500573990991	dependencies/GLFW/src/CMakeFiles/glfw.dir/wgl_context.c.obj	cafa1f72daf62950
+796	1296	7257500574232980	dependencies/GLFW/src/CMakeFiles/glfw.dir/osmesa_context.c.obj	8f7145b1e5602ccd
+83	812	7257500569367888	dependencies/GLFW/src/CMakeFiles/glfw.dir/egl_context.c.obj	aaaaee262af15157
+2	754	7257502111436014	CMakeFiles/OpenGL_Full.dir/OpenGL_Full/glad.c.obj	dd893a5219f1c355
+1297	1368	7257500574922077	dependencies/GLFW/src/glfw3.lib	f732e2d8058ec2cb
+859	1382	7257865132997431	OpenGL_Full.exe	73bd10409194d6a5
+3	442	7257866950167931	build.ninja	26d29b51955b9387
